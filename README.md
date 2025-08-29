@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on **Data Structures using Python**<br>- 🌱 I’m currently learning **Full Stack Development (Python + React/Node.js)**<br>- 👯 I’m looking to collaborate on ** Web Apps, and Open Source**<br>- 🤔 I’m looking for help with **building real-world projects and internships**<br>- 💬 Ask me about **Python, SQL, Web Development, Git/GitHub**<br>- 📫 How to reach me: **[venuknk3215@gmail.com] | [https://www.linkedin.com/in/venu-kandukuri/]**<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun fact: **I enjoy turning ideas into code and learning by building projects 🚀**<br>
+-🔭 I’m currently working on **Data Structures using Python**<br>- 🌱 I’m currently learning **Full Stack Development (Python + React/Node.js)**<br>- 👯 I’m looking to collaborate on ** Web Apps, and Open Source**<br>- 🤔 I’m looking for help with **building real-world projects and internships**<br>- 💬 Ask me about **Python, SQL, Web Development, Git/GitHub**<br>- 😄 Pronouns: **He/Him**<br>- ⚡ Fun fact: **I enjoy turning ideas into code and learning by building projects 🚀**<br>
 
 
 ## 🌐 Socials:
